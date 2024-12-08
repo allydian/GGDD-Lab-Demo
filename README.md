@@ -1,2 +1,2 @@
-# CGDD Lab Demo
- Unity 2D Lab 6 and 7
+# CGDD Lab 6 & 7
+Project file for labs 6 & 7. Current progress for this file is up until Lab 6.
